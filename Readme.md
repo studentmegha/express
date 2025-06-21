@@ -10,6 +10,7 @@
 - [Installation](#installation)
 - [Features](#features)
 - [Docs \& Community](#docs--community)
+- megha
 - [Quick Start](#quick-start)
 - [Philosophy](#philosophy)
 - [Examples](#examples)
